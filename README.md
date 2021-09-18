@@ -6,5 +6,6 @@
 
 
 iPhone 打开日历，点击屏幕中间的一个日历--添加日历---添加订阅日历。  
-将    https://henjuese.github.io/chine-calendar/basic.ics     这个连接复制进去即可。
+将下面这个连接复制进去即可。  
+https://henjuese.github.io/chine-calendar/basic.ics
 
