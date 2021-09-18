@@ -5,5 +5,6 @@
 中国日历，万年历，中国节假日ics iPhone
 
 
-iPhone 打开日历，点击屏幕中间的一个日历--添加日历---添加订阅日历。将https://henjuese.github.io/chine-calendar/basic.ics 这个连接复制进去即可。
+iPhone 打开日历，点击屏幕中间的一个日历--添加日历---添加订阅日历。  
+将  https://henjuese.github.io/chine-calendar/basic.ics   这个连接复制进去即可。
 
